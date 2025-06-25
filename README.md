@@ -29,19 +29,21 @@ As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web app
 
 
 
+## 📈 GitHub Stats
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=dark&hide=prs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=tokyonight&hide=prs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&langs_count=6&hide=css&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&langs_count=6&hide=css&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam&theme=tokyonight" />
 </p>
 
 
