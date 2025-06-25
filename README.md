@@ -28,19 +28,20 @@ As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web app
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsheikhmohaimenulislam)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=tokyonight&hide=prs" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=dark&hide=prs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&langs_count=6&hide=css&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&langs_count=6&hide=css&theme=dark" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam&theme=dark" />
 </p>
 
 
