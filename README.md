@@ -16,8 +16,6 @@ As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web app
 - **Frameworks/Libraries**: React.js, Next.js, Node.js, Express.js  
 - **Database**: MongoDB  
 - **Learning**: JavaScript 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
