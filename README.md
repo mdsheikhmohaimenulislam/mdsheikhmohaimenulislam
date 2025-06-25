@@ -41,6 +41,24 @@ const thai = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsheikhmohaimenulislam)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35"> Current Focus
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</div>
+
+const currentGoals = {
+  🔥 building: "Modern MERN Stack Applications",
+  📚 learning: "Advanced React & Next.js Concepts",
+  🎯 mastering: "Frontend Development Best Practices",
+  🚀 exploring: "Latest Web Technologies",
+  💡 focus: "Creating User-Friendly Interfaces"
+};
+
+
+
+
+---
 
 ### 📈 GitHub Stats
 
