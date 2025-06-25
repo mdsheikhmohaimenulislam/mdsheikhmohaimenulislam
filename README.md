@@ -12,15 +12,13 @@ I’m a front-end web developer. I am passionate about learning. I love to solve
 ---
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const mohai = {
+  code: [JavaScript, TypeScript, HTML, CSS, Python],
+  tools: [React,  Node.js,express js ],
   techCommunities: {
                         coorganizer: "Mohaimenul islam",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am  Learning typescript"
 }
 ```
 
@@ -47,18 +45,16 @@ const thai = {
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 </div>
 
-const currentGoals = {
-  🔥 building: "Modern MERN Stack Applications",
-  📚 learning: "Advanced React & Next.js Concepts",
-  🎯 mastering: "Frontend Development Best Practices",
-  🚀 exploring: "Latest Web Technologies",
-  💡 focus: "Creating User-Friendly Interfaces"
-};
 
 
+```javascript
+const goals = {
+  building: ["Modern MERN Stack Applications"],
+  mastering: ["Frontend Development Best Practices"],
+  exploring: ["Latest Web Technologies"],
+  exploring: ["Latest Web Technologies"],
 
-
----
+```
 
 ### 📈 GitHub Stats
 
