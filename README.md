@@ -1,10 +1,19 @@
-### Hi there 👋, I'am Mohaimenul islam
-#### 💻 Web Developer | MERN Stack
 ![💻 Web Developer | MERN Stack](https://i.ibb.co/B2ChVpzr/Facebook-Cover-Code-your-future-with-passion.jpg)
+
+### Hi there 👋, I'am Mohaimenul islam
+
+#### 💻 Web Developer | MERN Stack
 
 As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web apps that solve real problems. I thrive on turning ideas into functional products and continuously improve my skills by staying current with modern web technologies.
 
-Skills: REACT / JS / HTML / CSS / PY
+## 🛠️ Tech Stack & Skills
+- Languages: JavaScript, HTML, CSS
+
+- Frameworks/Libraries: React.js, Next.js, Node.js, Express.js
+
+- Database: MongoDB
+
+- Learning: JavaScript
 
 - 🔭 I’m currently working on ProFast 
 - 🌱 I’m currently learning JavaScript 
@@ -18,11 +27,15 @@ Skills: REACT / JS / HTML / CSS / PY
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsheikhmohaimenulislam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true)  
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true" alt="GitHub stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact" alt="Top Languages" />
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/mdsheikhmohaimenulislam)  
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam" alt="GitHub streak stats" />
+</p>
 
