@@ -55,27 +55,8 @@ const thai = {
 
 ---
 
-
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/mdsheikhmohaimenulislam" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
-      alt="GitHub" 
-      height="30" 
-      style="filter: invert(1);"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" 
-      alt="facebook" 
-      height="30" 
-      style="filter: invert(1);"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
+</div>
 
 
