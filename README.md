@@ -4,17 +4,21 @@
 
 #### 💻 Web Developer | MERN Stack
 
+---
+
 As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web apps that solve real problems. I thrive on turning ideas into functional products and continuously improve my skills by staying current with modern web technologies.
 
-## 🛠️ Tech Stack & Skills
-- Languages: JavaScript, HTML, CSS
+---
 
-- Frameworks/Libraries: React.js, Next.js, Node.js, Express.js
+### 🛠️ Tech Stack & Skills
 
-- Database: MongoDB
+- **Languages**: JavaScript, HTML, CSS  
+- **Frameworks/Libraries**: React.js, Next.js, Node.js, Express.js  
+- **Database**: MongoDB  
+- **Learning**: JavaScript 
 
-- Learning: JavaScript
-
+---
+ 
 - 🔭 I’m currently working on ProFast 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
@@ -29,21 +33,40 @@ As a MERN Stack Web Developer, I build fast, reliable, and user-friendly web app
 
 
 
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=tokyonight&hide=prs" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&langs_count=6&hide=css&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdsheikhmohaimenulislam&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&hide_border=true&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&hide_border=true&theme=transparent" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Habibullah-KH&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://github.com/mdsheikhmohaimenulislam" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
+      alt="GitHub" 
+      height="30" 
+      style="filter: invert(1);"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" 
+      alt="facebook" 
+      height="30" 
+      style="filter: invert(1);"
+    />
+  </a>
 </p>
 
 
