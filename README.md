@@ -15,8 +15,8 @@ I’m a front-end web developer. I am passionate about learning. I love to solve
 const mohai = {
   code: [JavaScript, HTML, CSS],
   tools: [React,  Node.js,express js ],
-  techCommunities: {
-                        coorganizer: "Mohaimenul islam",
+  Author: {
+                        Name: "Mohaimenul islam",
                       },
  challenge: "I am  Learning JavaScript"
 }
