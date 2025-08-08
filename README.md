@@ -60,11 +60,11 @@ const goals = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohaimenul-islam&show_icons=true&hide_border=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohaimenul-islam&layout=compact&hide_border=true&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&hide_border=true&theme=transparent" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohaimenul-islam&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com/?user=Habibullah-KH&hide_border=true&theme=transparent" />
 </p>
 
 ---
