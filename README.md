@@ -52,7 +52,7 @@ const goals = {
   building: ["Modern MERN Stack Applications"],
   mastering: ["Frontend Development Best Practices"],
   exploring: ["Latest Web Technologies"],
-  exploring: ["Latest Web Technologies"],
+  exploring: ["I am exploring Next.js"],
 
 ```
 
