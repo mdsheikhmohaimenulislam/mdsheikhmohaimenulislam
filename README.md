@@ -63,19 +63,20 @@ const goals = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&theme=dark&background=00000000" alt="GitHub Streak" />
 
 </div>
+
 
 
 
