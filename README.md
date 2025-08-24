@@ -59,7 +59,7 @@ const goals = {
 ### 📈 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&locale=en" alt="mdsheikhmohaimenulislam" /></p>
-
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&layout=compact" alt="mdsheikhmohaimenulislam" /></p>
 
 ---
