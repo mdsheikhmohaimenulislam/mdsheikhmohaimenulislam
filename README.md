@@ -58,19 +58,11 @@ const goals = {
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohaimenul-islam&show_icons=true&hide_border=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&hide_border=true&theme=transparent" height="180" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&locale=en" alt="mdsheikhmohaimenulislam" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Habibullah-KH&hide_border=true&theme=transparent" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&layout=compact" alt="mdsheikhmohaimenulislam" /></p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&" alt="mdsheikhmohaimenulislam" /></p>
 
