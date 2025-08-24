@@ -58,25 +58,17 @@ const goals = {
 
 ### 📈 GitHub Stats
 
-<div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&theme=dark&bg_color=00000000" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&hide_border=true&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&layout=compact&hide_border=true&theme=transparent" height="180" />
+</p>
 
-  <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&hide_border=true&theme=transparent" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&theme=dark&background=00000000" alt="GitHub Streak" />
-
-</div>
-
-
-
-
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=1200&lines=💻+Assalamu+Alaikum!+Happy+Coding!+Keep+Building+Amazing+Things!" />
+</p>
