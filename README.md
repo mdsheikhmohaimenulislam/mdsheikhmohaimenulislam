@@ -63,7 +63,7 @@ const goals = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsheikhmohaimenulislam&hide_border=true&theme=transparent" />
+ <img src="https://nirzak-streak-stats.vercel.app/?user=mdsheikhmohaimenulislam&theme=transparent&hide_border=true" height="180" />
 </p>
 
 ---
