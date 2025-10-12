@@ -7,22 +7,9 @@
 ---
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">  About Me
 
-I’m a front-end web developer. I am passionate about learning. I love to solve real-world problems. Most of the time, I work with  technologies I enjoy working with including ReactJS, JavaScript 
+I am a front-end web developer with a passion for learning and solving real-world problems. I enjoy building interactive and user-friendly web applications, primarily using technologies such as ReactJS and JavaScript. I take pride in creating efficient, clean, and maintainable code while continuously exploring new tools and techniques in the web development ecosystem.
 
 ---
-
-```javascript
-const mohai = {
-  code: [JavaScript, HTML, CSS],
-  tools: [React,  Node.js,express js ],
-  Author: {
-                        Name: "Mohaimenul islam",
-                      },
- challenge: "I am  Learning JavaScript"
-}
-```
-
-
 
 ### 🛠️ Tech Stack & Skills
 
@@ -42,17 +29,6 @@ const mohai = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 </div>
-
-
-
-```javascript
-const goals = {
-  building: ["Modern MERN Stack Applications"],
-  mastering: ["Frontend Development Best Practices"],
-  exploring: ["Latest Web Technologies"],
-  exploring: ["Next.js"],
-
-```
 
 ### 📈 GitHub Stats
 
