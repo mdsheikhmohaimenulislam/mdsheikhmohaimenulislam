@@ -34,12 +34,22 @@ I am a front-end web developer with a passion for learning and solving real-worl
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&hide_border=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsheikhmohaimenulislam&layout=compact&hide_border=true&theme=transparent" height="180" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=transparent&hide_border=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&theme=transparent&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
- <img src="https://nirzak-streak-stats.vercel.app/?user=mdsheikhmohaimenulislam&theme=transparent&hide_border=true" height="180" />
+  <img 
+    src="https://streak-stats.demolab.com?user=mdsheikhmohaimenulislam&theme=transparent&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
