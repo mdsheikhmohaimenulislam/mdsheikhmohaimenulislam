@@ -35,19 +35,19 @@ I am a front-end web developer with a passion for learning and solving real-worl
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" 
     height="180"
   />
 
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&theme=dark&hide_border=true&bg_color=00000000" 
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=mdsheikhmohaimenulislam&theme=transparent&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=mdsheikhmohaimenulislam&theme=dark&hide_border=true&background=00000000" 
     height="180"
   />
 </p>
