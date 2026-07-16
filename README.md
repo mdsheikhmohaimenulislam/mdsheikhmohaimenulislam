@@ -1,6 +1,6 @@
 ![💻 Web Developer | MERN Stack](https://i.ibb.co/B2ChVpzr/Facebook-Cover-Code-your-future-with-passion.jpg) 
 
-### Hi there 👋, I'm Mohaimenul Islam
+### Hi there <img src="./hi.gif" width="38" alt="Hi">, I'm Mohaimenul Islam
 
 #### 💻 Web Developer | MERN Stack
 
