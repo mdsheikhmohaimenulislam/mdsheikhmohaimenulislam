@@ -10,7 +10,7 @@
 
 I am a full-stack web developer passionate about creating modern and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills. I always strive to write clean, maintainable, and efficient code while building practical and impactful projects.
 
----
+
 
 ## 🌱 Current Focus
 
@@ -24,7 +24,7 @@ I am a full-stack web developer passionate about creating modern and user-friend
 - 🎯 Enhancing UI/UX and Application Performance
 
 
----
+
 
 ### 🛠️ Tech Stack & Skills
 
