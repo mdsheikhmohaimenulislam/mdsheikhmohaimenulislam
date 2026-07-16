@@ -72,25 +72,27 @@ I am a full-stack web developer passionate about creating modern and user-friend
 
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdsheikhmohaimenulislam&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
     height="180"
+    alt="GitHub Stats"
   />
-
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&theme=dark&hide_border=true&bg_color=00000000" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdsheikhmohaimenulislam&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mdsheikhmohaimenulislam&theme=dark&hide_border=true&background=00000000" 
+  <img
+    src="https://streak-stats.demolab.com?user=mdsheikhmohaimenulislam&theme=dark&hide_border=true&background=00000000"
     height="180"
+    alt="GitHub Streak"
   />
 </p>
 
----
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=1200&lines=💻+Assalamu+Alaikum!+Happy+Coding!+Keep+Building+Amazing+Things!" />
 </p>
