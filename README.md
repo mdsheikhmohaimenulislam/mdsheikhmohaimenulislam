@@ -1,15 +1,26 @@
 ![💻 Web Developer | MERN Stack](https://i.ibb.co/B2ChVpzr/Facebook-Cover-Code-your-future-with-passion.jpg) 
 
-### Hi there 👋, I'am Mohaimenul islam
+### Hi there 👋, I'm Mohaimenul Islam
 
 #### 💻 Web Developer | MERN Stack
 
 ---
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">  About Me
 
-I am a front-end web developer with a passion for learning and solving real-world problems. I enjoy building interactive and user-friendly web applications, primarily using technologies such as ReactJS and JavaScript. I take pride in creating efficient, clean, and maintainable code while continuously exploring new tools and techniques in the web development ecosystem.
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
+
+I am a full-stack web developer passionate about creating modern and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills. I always strive to write clean, maintainable, and efficient code while building practical and impactful projects.
 
 ---
+
+## 🌱 Current Focus
+
+- 🚀 Learning Next.js & TypeScript
+- 💻 Building Full Stack MERN Applications
+- 🔧 Exploring PostgreSQL & Prisma
+- 🌐 Developing Scalable Web Applications
+- 📖 Improving Backend Development Skills
+- 🎯 Enhancing UI/UX and Application Performance
+
 
 ### 🛠️ Tech Stack & Skills
 
