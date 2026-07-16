@@ -26,6 +26,7 @@ I am a front-end web developer with a passion for learning and solving real-worl
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white)](https://www.usebruno.com/)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
