@@ -1,14 +1,18 @@
-![💻 Web Developer | MERN Stack](https://i.ibb.co.com/PvhMqhBq/Futuristic-developer-portfolio-in-neon.png) 
+<p align="center">
+  <img src="https://i.ibb.co.com/PvhMqhBq/Futuristic-developer-portfolio-in-neon.png" alt="Mohaimenul Islam | Full Stack Web Developer" width="100%" />
+</p>
 
 ### Hi there <img src="./hi.gif" width="38" alt="Hi">, I'm Mohaimenul Islam
 
-#### 💻 Web Developer | MERN Stack
+#### 💻 Full Stack Web Developer
 
----
+🛠️ *Building modern web applications with JavaScript, React, Next.js, Node.js, Express, and PostgreSQL.*
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
-I am a full-stack web developer passionate about creating modern and user-friendly web applications. I enjoy learning new technologies, solving real-world problems, and continuously improving my skills. I always strive to write clean, maintainable, and efficient code while building practical and impactful projects.
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+
+I love turning ideas into real-world solutions through clean, maintainable, and efficient code. I'm continuously learning new technologies, improving my backend development skills, and creating applications that deliver a great user experience.
 
 
 
