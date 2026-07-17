@@ -98,5 +98,5 @@ I love turning ideas into real-world solutions through clean, maintainable, and 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=1200&lines=💻+Assalamu+Alaikum!+Happy+Coding!+Keep+Building+Amazing+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=1000&lines=✨+Thanks+for+visiting+my+profile!;💻+Happy+Coding!;🚀+Keep+Building+Amazing+Things!" />
 </p>
