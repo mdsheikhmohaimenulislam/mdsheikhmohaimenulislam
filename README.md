@@ -1,4 +1,4 @@
-![💻 Web Developer | MERN Stack](https://i.ibb.co/B2ChVpzr/Facebook-Cover-Code-your-future-with-passion.jpg) 
+![💻 Web Developer | MERN Stack](https://i.ibb.co.com/PvhMqhBq/Futuristic-developer-portfolio-in-neon.png) 
 
 ### Hi there <img src="./hi.gif" width="38" alt="Hi">, I'm Mohaimenul Islam
 
